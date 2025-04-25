@@ -18,11 +18,17 @@
                     <label for="tarefas-add">Tarefa</label>
                     <input type="text" id="tarefa" placeholder="Digite uma tarefa" required>
                 </div>
+                <!-- Botão para adicionar a tarefa -->
+                <div class="form-actions">
+                    <button type="button" onclick="Adicionar()">Adicionar</button>
+                    <input type="reset" value="Limpar">
+                </div>
                 <!-- Área para listar as tarefas adicionadas-->
                 <div id="tarefas-lista">
                     <h2>Tarefas</h2>
                     <ul id="lista-tarefas"></ul>
                 </div>
+    
             </form>
         </section>
     </main>
