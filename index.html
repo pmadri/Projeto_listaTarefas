@@ -10,12 +10,20 @@
         <h1>Lista de Tarefas</h1>
     </header>
     <main>
+       <!-- Formulário para adicionar tarefas -->
         <section>
             <form id="Tarefas">
                 <div>
-                    <label for="tarefa">Tarefa</label>
+                    <!-- Campo para adicionar uma nova tarefa -->
+                    <label for="tarefas-add">Tarefa</label>
                     <input type="text" id="tarefa" placeholder="Digite uma tarefa" required>
                 </div>
+                <!-- Área para listar as tarefas adicionadas-->
+                <div id="tarefas-lista">
+                    <h2>Tarefas</h2>
+                    <ul id="lista-tarefas"></ul>
+                </div>
+            </form>
         </section>
     </main>
     
