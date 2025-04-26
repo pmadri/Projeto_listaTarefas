@@ -27,6 +27,13 @@ Uma atividade avaliativa de faculdade utilizando conhecimentos adquiridos anteri
 
 ## Tecnologias utilizadas
 
+- `HTML`
+  
+- `CSS`
+
+- `JavaScript`
+
+
 ## Acesso ao projeto
 
 ## Contribuidores
