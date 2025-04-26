@@ -19,6 +19,12 @@ Uma atividade avaliativa de faculdade utilizando conhecimentos adquiridos anteri
 
 ## Funcionalidades
 
+`Funcionalidade 1:` Botão "Adicionar" para acrescentar as tarefas na lista;
+
+`Funcionalidade 2:` Botão "Limpar" para remover os as tarefas adicionadas a lista;
+ 
+`Funcionalidade 3:` Função de contagem de tarefas pendentes e concluídas;
+
 ## Tecnologias utilizadas
 
 ## Acesso ao projeto
