@@ -8,8 +8,6 @@
 
 :grey_question: [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-:grey_question: [Acesso ao projeto](#acesso-ao-projeto)
-
 :grey_question: [Contribuidores](#contribuidores)
 
 
@@ -32,8 +30,3 @@ Uma atividade avaliativa de faculdade utilizando conhecimentos adquiridos anteri
 - `CSS`
 
 - `JavaScript`
-
-
-## Acesso ao projeto
-
-## Contribuidores
