@@ -15,6 +15,8 @@
 
 ## Descrição
 
+Uma atividade avaliativa de faculdade utilizando conhecimentos adquiridos anteriormente no 3º Semestre do curso, sw refere a uma lista de tarefas com funcionalidades de adicionar e limpar as tarefas.
+
 ## Funcionalidades
 
 ## Tecnologias utilizadas
